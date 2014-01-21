@@ -1,0 +1,9 @@
+{
+   "name": "nodejs-spawn-test",
+   "private": true,
+   "dependencies": {
+      "step": "*",
+      "express": "*",
+      "restler": "*"
+   }
+}
