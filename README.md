@@ -34,6 +34,6 @@ Issues three GET requests, that should print 1, 2, 3.
 
 Sends ```100``` to stdin of the child process to reset its number to 100. Issues three more GET requests, that should print 101, 102, 103.
 
-Terminates itself and the child process when ``stop``` is typed in the console.
+Terminates itself and the child process when ```stop``` is typed in the console.
 
 Sends console inputs other than ```stop``` to the child process and prints its outputs. Effectively, this results in ```stopchild``` to stop both the child process and the parent process.
